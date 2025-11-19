@@ -1,5 +1,5 @@
 {
-  "name": "@frida/xml2js",
+  "name": "@ainakan/xml2js",
   "description": "Simple XML to JavaScript object converter.",
   "version": "1.0.1",
   "publishConfig": {
@@ -72,7 +72,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/node-xml2js.git"
+    "url": "https://github.com/ainakan/node-xml2js.git"
   },
   "dependencies": {
     "sax": ">=0.6.0",
